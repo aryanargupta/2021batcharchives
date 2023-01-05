@@ -13,6 +13,9 @@ All study materials of 2021 batch have been compiled here.
 | | MA101 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
 | | EC100/160 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
 | | HS101 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
+| | | | | |
+| WORK IN PROGRESS NOW ONWARDS | | | | |
+| | | | | |
 | Winter-1 (Sem-II) | | | | |
 | | CS102/162 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | | PH110/170 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
