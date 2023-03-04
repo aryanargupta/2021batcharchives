@@ -1,5 +1,6 @@
 # 2021 Batch Archives
 All study materials of 2021 batch have been compiled here.
+<img src="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/ka1.png" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
 
 
 ## Material Access
@@ -17,11 +18,11 @@ All study materials of 2021 batch have been compiled here.
 | Semester | Subjects | Books | Class Slides | Exam Papers | Lab Assignments | Codes |
 |:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|:-----------------:|
 | Winter-1 (Sem-II) | | | | |
-| | CS102/162 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| | PH110/170 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | MA101 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | EE100/160 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | HS102 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
+| | CS102/162 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FGa8rk02CHoTELgzC-EAgDTTv_-6bl_e) | NA | NA |
+| | PH110/170 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1G3nCa1BM1nwUCVDTdln-6nFy_KSuO2P0) | NA | NA |
+| | MA102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FrfizxDFDQOCxQKhJqmdXh1xx36T1Zss) | NA | NA |
+| | EE100/160 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1GOKpymnuVj2MuVIpq9IDdjh2ufY9eo-4) | NA | NA |
+| | HS102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FR_7vPfCx9G_u1WF_Fp-zRwKf3tua07g) | NA | NA |
 
 <!-- | | | | | |
 | WORK IN PROGRESS BELOW | | | | |
@@ -44,9 +45,9 @@ Note:
 That said, Study Hard and Party Harder! :v:
 
 
-## Credits
+<!--## Credits
 
-Exam papers by [Aditya Ray](https://github.com/adi-ray) 
+Exam papers by [] -->
 <br/><br/>
 
 ## Project Maintainers
