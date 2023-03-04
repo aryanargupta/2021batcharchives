@@ -52,3 +52,4 @@ Exam papers by [Aditya Ray](https://github.com/adi-ray)
 ## Project Maintainers
 
 * [Aryan Amit Gupta](https://github.com/aryanargupta)
+* [Aditya Ray](https://github.com/adi-ray)
