@@ -1,5 +1,9 @@
 # 2021 Batch Archives
+
 All study materials of 2021 batch have been compiled here.
+
+
+<img src="https://github.com/manjunath5496/manjunath5496.github.io/blob/master/ka1.png" alt="Awesome Machine Learning On Source Code" style="max-width:100%;">
 
 
 ## Material Access
@@ -13,15 +17,16 @@ All study materials of 2021 batch have been compiled here.
 | | MA101 | [:white_check_mark:](https://drive.google.com/drive/folders/1FLSK3NEeZlfnm0JQDXiRsftFqBHW2CgB?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/14Otj9-LOr38ACDMAGI9MyzaOL9xucq0v?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/12E9RbLaEwbf6MkcflHpwgZR9ggbOG8zr?usp=share_link) | NA | NA |
 | | EC100/160 | [:white_check_mark:](https://drive.google.com/drive/folders/15NyAvtFUKhLyz35nuYbLeUktxfEZgF5K?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1j-7Or62IGGz4mlsD6wtK7D0BFJsj8eR_?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1OJQu661QvytIQDc0hAwHxRdZcwiqF3l5?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1cc-2H0ET8qE-PKoThT3kMqo0vRE-iVzr?usp=share_link) | NA |
 | | HS101 | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1388tpjcUk6Dn6mHNK6TSl0UMOql6_7xk?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1A51_3e2LM3AFTeD4l7Jn1xMCMO3Yrt3b?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/11JhwLSdr6-FcHHmYQy6k-zevYfkNCD0K?usp=share_link) | NA |
+| Winter-1 (Sem-II) | | | | |
+| | CS102/162 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FGa8rk02CHoTELgzC-EAgDTTv_-6bl_e) | NA | NA |
+| | PH110/170 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1G3nCa1BM1nwUCVDTdln-6nFy_KSuO2P0) | NA | NA |
+| | MA102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FrfizxDFDQOCxQKhJqmdXh1xx36T1Zss) | NA | NA |
+| | EE100/160 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1GOKpymnuVj2MuVIpq9IDdjh2ufY9eo-4) | NA | NA |
+| | HS102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FR_7vPfCx9G_u1WF_Fp-zRwKf3tua07g) | NA | NA |
+
 <!-- | | | | | |
 | WORK IN PROGRESS BELOW | | | | |
 | | | | | |
-| Winter-1 (Sem-II) | | | | |
-| | CS102/162 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| | PH110/170 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | MA101 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | EE100/160 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | HS102 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
 | Autumn-2 (Sem-III) | | | | |
 | | CS201/261 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | | CS203//263 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
@@ -35,13 +40,12 @@ All study materials of 2021 batch have been compiled here.
 Note:
 1. Future Semester materials will be added as and when they are compiled.
 2. MA101 for 2021 batch was based on Linear Algebra (2022 batch has it based on Discrete Mathematics, which is the MA102 for 2021 batch)
-3. At present only MidSemester Papers are available, soon EndSemester Question Papers will also be added.
 
 
-That said, Study Hard and Party Harder!
+That said, Study Hard and Party Harder! :v:
 
 
-<!-- ## Credits
+<!--## Credits
 
 Exam papers by [] -->
 <br/><br/>
