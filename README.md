@@ -23,17 +23,14 @@ All study materials of 2021 batch have been compiled here.
 | | MA102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FrfizxDFDQOCxQKhJqmdXh1xx36T1Zss) | NA | NA |
 | | EE100/160 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1GOKpymnuVj2MuVIpq9IDdjh2ufY9eo-4) | NA | NA |
 | | HS102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FR_7vPfCx9G_u1WF_Fp-zRwKf3tua07g) | NA | NA |
-
-<!-- | | | | | |
-| WORK IN PROGRESS BELOW | | | | |
-| | | | | |
 | Autumn-2 (Sem-III) | | | | |
-| | CS201/261 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| | CS203//263 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| | MA201 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| | EC201/261 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | HS201 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA |
-| | SC201 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | NA | -->
+| | CS201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1kcJEHant-dQcgzisuKkE2rHezPWVlMxr?usp=sharing) | NA | NA |
+| | CS203//263 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1Wcti7xRAOlKxajri1WTvYXbF5CfGOP0d?usp=sharing) | NA | NA |
+| | MA201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/11w6oNACwBWQI6mKJPtgygI25nkV9QOGo?usp=sharing) | NA | NA |
+| | EC201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1M1MbEpSapU4LjO1p4r4g8oZ6GfNly7zZ?usp=sharing) | NA | NA |
+| | HS201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1vYU-BaszEeeLdSrueHjSa-0qRdIAoyND?usp=sharing) | NA | NA |
+| | SC201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1h8ris9TLcSAapJL-_vsZXA8zDgC6mOae?usp=sharing) | NA | NA |
+
 **Click on the Green Ticks to access the materials.**
 
 <br/><br/>
