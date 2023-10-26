@@ -24,8 +24,8 @@ All study materials of 2021 batch have been compiled here.
 | | EE100/160 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1GOKpymnuVj2MuVIpq9IDdjh2ufY9eo-4) | NA | NA |
 | | HS102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FR_7vPfCx9G_u1WF_Fp-zRwKf3tua07g) | NA | NA |
 | Autumn-2 (Sem-III) | | | | |
-| | CS201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1kcJEHant-dQcgzisuKkE2rHezPWVlMxr?usp=sharing) | NA | NA |
-| | CS203//263 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1Wcti7xRAOlKxajri1WTvYXbF5CfGOP0d?usp=sharing) | NA | [✅](https://github.com/aryanargupta/AlgoLabArchives) |
+| | CS201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1jCkQ6ys-CB0FSipOoeHpAwnyo5beeJRa?usp=sharing) | NA | NA |
+| | CS203//263 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1j6k7Qy7h3mGoXoL0EAAdkXv3pv93ipuw?usp=sharing) | NA | [✅](https://github.com/aryanargupta/AlgoLabArchives) |
 | | MA201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/11w6oNACwBWQI6mKJPtgygI25nkV9QOGo?usp=sharing) | NA | NA |
 | | EC201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1M1MbEpSapU4LjO1p4r4g8oZ6GfNly7zZ?usp=sharing) | NA | NA |
 | | HS201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1vYU-BaszEeeLdSrueHjSa-0qRdIAoyND?usp=sharing) | NA | NA |
