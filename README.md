@@ -30,6 +30,22 @@ All study materials of 2021 batch have been compiled here.
 | | EC201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1M1MbEpSapU4LjO1p4r4g8oZ6GfNly7zZ?usp=sharing) | NA | NA |
 | | HS201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1vYU-BaszEeeLdSrueHjSa-0qRdIAoyND?usp=sharing) | NA | NA |
 | | SC201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1h8ris9TLcSAapJL-_vsZXA8zDgC6mOae?usp=sharing) | NA | NA |
+| Winter-2 (Sem-IV) | | | | |
+| | CS202 | NA | NA | NA | NA | NA |
+| | IT202 | NA | NA | NA | NA | NA |
+| | CS204/264 | NA | NA | NA | NA | NA |
+| | CS206/266 | NA | NA | NA | NA | NA |
+| | CS208/268 | NA | NA | NA | NA | NA |
+| | MA202 | NA | NA | NA | NA | NA |
+| | HS202 | NA | NA | NA | NA | NA |
+| Autumn-3 (Sem-V) | | | | |
+| | CS301/361 | NA | NA | NA | NA | NA |
+| | CS303/363 | NA | NA | NA | NA | NA |
+| | CS305 | NA | NA | NA | NA | NA |
+| | IT301/361 | NA | NA | NA | NA | NA |
+| | CS/IT 331 | NA | NA | NA | NA | NA |
+| | CS/IT 341 | NA | NA | NA | NA | NA |
+| | CS/IT 333 | NA | NA | NA | NA | NA |
 
 **Click on the Green Ticks to access the materials.**
 
