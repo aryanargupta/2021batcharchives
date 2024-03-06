@@ -32,12 +32,12 @@ All study materials of 2021 batch have been compiled here.
 | | SC201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1h8ris9TLcSAapJL-_vsZXA8zDgC6mOae?usp=sharing) | NA | NA |
 | Winter-2 (Sem-IV) | | | | |
 | | CS202 | NA | NA | NA | NA | NA |
-| | IT202 | NA | NA | NA | NA | NA |
-| | CS204/264 | NA | NA | NA | NA | NA |
-| | CS206/266 | NA | NA | NA | NA | NA |
-| | CS208/268 | NA | NA | NA | NA | NA |
+| | IT202 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UHooAKAlfxd3RQ9HS9b4xg_JwzkeMJsj?usp=sharing) | NA | NA |
+| | CS204/264 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UMzCUM6p2OGrALGOgA-X7u6n2JD7pUDg?usp=sharing) | NA | NA |
+| | CS206/266 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UPT-9Xqw9nP2y4nnYfzdV3Z_cu_rJu87?usp=sharing) | NA | NA |
+| | CS208/268 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UPZtmj34vprzWiTCQLKj9hxjwl-rPk36?usp=sharing) | NA | NA |
 | | MA202 | NA | NA | NA | NA | NA |
-| | HS202 | NA | NA | NA | NA | NA |
+| | HS202 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UL_jep5leyJpwpCHK9pKtKdIkGIRvGY2?usp=sharing) | NA | NA |
 | Autumn-3 (Sem-V) | | | | |
 | | CS301/361 | NA | NA | NA | NA | NA |
 | | CS303/363 | NA | NA | NA | NA | NA |
