@@ -10,53 +10,54 @@ All study materials of 2021 batch have been compiled here.
 
 
 | Semester | Subjects | Books | Class Slides | Exam Papers | Lab Assignments | Codes |
-|:--------------|:----------------:|:----------------:|:----------------:|:-----------------:|:-----------------:|:-----------------:|
+|:--------------|:----------------|:----------------:|:----------------:|:-----------------:|:-----------------:|:-----------------:|
 | Autumn-1 (Sem-I) | | | | |
-| | IT101/161 | [:white_check_mark:](https://drive.google.com/drive/folders/1cIZZLSlOTrPte7FmR9ENCpdrefthwdda?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1E_yqi1hyuweQZQ-3P375EKNQiZQf2sjO?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1jTzX6BdxQAQtVYunzj43ic354EShtsBR?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1EBs9C4P4ZLK9ixOCOKdV_ZfsnQzXgwuz?usp=share_link) | [:white_check_mark:](https://github.com/aryanargupta/2021batcharchives/tree/main/Sem_1/IT161) | 
-| | PH100/160 | [:white_check_mark:](https://drive.google.com/drive/folders/19ipqWGrjS6zKjqjlvnr63VCsyVLwqdc8?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1K4S62uAFHIUn1sVD3Ux_MF3XssLskcsn?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1d0zei0RAbj9Trmp0ODCO7F6Ew3JciqVA?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1E_TupU2GqYaVuQ3MGih4C6zPb7Duoe8Y?usp=share_link) | NA |
-| | MA101 | [:white_check_mark:](https://drive.google.com/drive/folders/1FLSK3NEeZlfnm0JQDXiRsftFqBHW2CgB?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/14Otj9-LOr38ACDMAGI9MyzaOL9xucq0v?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/12E9RbLaEwbf6MkcflHpwgZR9ggbOG8zr?usp=share_link) | NA | NA |
-| | EC100/160 | [:white_check_mark:](https://drive.google.com/drive/folders/15NyAvtFUKhLyz35nuYbLeUktxfEZgF5K?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1j-7Or62IGGz4mlsD6wtK7D0BFJsj8eR_?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1OJQu661QvytIQDc0hAwHxRdZcwiqF3l5?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1cc-2H0ET8qE-PKoThT3kMqo0vRE-iVzr?usp=share_link) | NA |
-| | HS101 | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1388tpjcUk6Dn6mHNK6TSl0UMOql6_7xk?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1A51_3e2LM3AFTeD4l7Jn1xMCMO3Yrt3b?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/11JhwLSdr6-FcHHmYQy6k-zevYfkNCD0K?usp=share_link) | NA |
+| | IT101/161 (C-prog) | [:white_check_mark:](https://drive.google.com/drive/folders/1cIZZLSlOTrPte7FmR9ENCpdrefthwdda?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1E_yqi1hyuweQZQ-3P375EKNQiZQf2sjO?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1jTzX6BdxQAQtVYunzj43ic354EShtsBR?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1EBs9C4P4ZLK9ixOCOKdV_ZfsnQzXgwuz?usp=share_link) | [:white_check_mark:](https://github.com/aryanargupta/2021batcharchives/tree/main/Sem_1/IT161) | 
+| | PH100/160 (M & T) | [:white_check_mark:](https://drive.google.com/drive/folders/19ipqWGrjS6zKjqjlvnr63VCsyVLwqdc8?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1K4S62uAFHIUn1sVD3Ux_MF3XssLskcsn?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1d0zei0RAbj9Trmp0ODCO7F6Ew3JciqVA?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1E_TupU2GqYaVuQ3MGih4C6zPb7Duoe8Y?usp=share_link) | NA |
+| | MA101 (Lin-Alg) | [:white_check_mark:](https://drive.google.com/drive/folders/1FLSK3NEeZlfnm0JQDXiRsftFqBHW2CgB?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/14Otj9-LOr38ACDMAGI9MyzaOL9xucq0v?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/12E9RbLaEwbf6MkcflHpwgZR9ggbOG8zr?usp=share_link) | NA | NA |
+| | EC100/160 (BEC) | [:white_check_mark:](https://drive.google.com/drive/folders/15NyAvtFUKhLyz35nuYbLeUktxfEZgF5K?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1j-7Or62IGGz4mlsD6wtK7D0BFJsj8eR_?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1OJQu661QvytIQDc0hAwHxRdZcwiqF3l5?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1cc-2H0ET8qE-PKoThT3kMqo0vRE-iVzr?usp=share_link) | NA |
+| | HS101 (S & WC) | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1388tpjcUk6Dn6mHNK6TSl0UMOql6_7xk?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/1A51_3e2LM3AFTeD4l7Jn1xMCMO3Yrt3b?usp=share_link) | [:white_check_mark:](https://drive.google.com/drive/folders/11JhwLSdr6-FcHHmYQy6k-zevYfkNCD0K?usp=share_link) | NA |
 | Winter-1 (Sem-II) | | | | |
-| | CS102/162 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FGa8rk02CHoTELgzC-EAgDTTv_-6bl_e) | NA | NA |
-| | PH110/170 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1G3nCa1BM1nwUCVDTdln-6nFy_KSuO2P0) | NA | NA |
-| | MA102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FrfizxDFDQOCxQKhJqmdXh1xx36T1Zss) | NA | NA |
-| | EE100/160 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1GOKpymnuVj2MuVIpq9IDdjh2ufY9eo-4) | NA | NA |
-| | HS102 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FR_7vPfCx9G_u1WF_Fp-zRwKf3tua07g) | NA | NA |
+| | CS102/162 (DS) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FGa8rk02CHoTELgzC-EAgDTTv_-6bl_e) | NA | NA |
+| | PH110/170 (W & EM) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1G3nCa1BM1nwUCVDTdln-6nFy_KSuO2P0) | NA | NA |
+| | MA102 (DM) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FrfizxDFDQOCxQKhJqmdXh1xx36T1Zss) | NA | NA |
+| | EE100/160 (BEE) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1GOKpymnuVj2MuVIpq9IDdjh2ufY9eo-4) | NA | NA |
+| | HS102 (Sci-Tech-Soc) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1FR_7vPfCx9G_u1WF_Fp-zRwKf3tua07g) | NA | NA |
 | Autumn-2 (Sem-III) | | | | |
-| | CS201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1jCkQ6ys-CB0FSipOoeHpAwnyo5beeJRa?usp=sharing) | NA | NA |
-| | CS203//263 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1j6k7Qy7h3mGoXoL0EAAdkXv3pv93ipuw?usp=sharing) | NA | [✅](https://github.com/aryanargupta/AlgoLabArchives) |
-| | MA201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/11w6oNACwBWQI6mKJPtgygI25nkV9QOGo?usp=sharing) | NA | NA |
-| | EC201/261 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1M1MbEpSapU4LjO1p4r4g8oZ6GfNly7zZ?usp=sharing) | NA | NA |
-| | HS201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1vYU-BaszEeeLdSrueHjSa-0qRdIAoyND?usp=sharing) | NA | NA |
-| | SC201 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1h8ris9TLcSAapJL-_vsZXA8zDgC6mOae?usp=sharing) | NA | NA |
+| | CS201/261 (OODP) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1jCkQ6ys-CB0FSipOoeHpAwnyo5beeJRa?usp=sharing) | NA | NA |
+| | CS203//263 (Algo) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1j6k7Qy7h3mGoXoL0EAAdkXv3pv93ipuw?usp=sharing) | NA | [✅](https://github.com/aryanargupta/AlgoLabArchives) |
+| | MA201 (Prob-Stat) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/11w6oNACwBWQI6mKJPtgygI25nkV9QOGo?usp=sharing) | NA | NA |
+| | EC201/261 (DLD) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1M1MbEpSapU4LjO1p4r4g8oZ6GfNly7zZ?usp=sharing) | NA | NA |
+| | HS201 (WT) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1vYU-BaszEeeLdSrueHjSa-0qRdIAoyND?usp=sharing) | NA | NA |
+| | SC201 (EVS) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1h8ris9TLcSAapJL-_vsZXA8zDgC6mOae?usp=sharing) | NA | NA |
 | Winter-2 (Sem-IV) | | | | |
-| | CS202 | NA | NA | NA | NA | NA |
-| | IT202 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UHooAKAlfxd3RQ9HS9b4xg_JwzkeMJsj?usp=sharing) | NA | NA |
-| | CS204/264 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UMzCUM6p2OGrALGOgA-X7u6n2JD7pUDg?usp=sharing) | NA | NA |
-| | CS206/266 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UPT-9Xqw9nP2y4nnYfzdV3Z_cu_rJu87?usp=sharing) | NA | NA |
-| | CS208/268 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UPZtmj34vprzWiTCQLKj9hxjwl-rPk36?usp=sharing) | NA | NA |
-| | MA202 | NA | NA | NA | NA | NA |
-| | HS202 | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UL_jep5leyJpwpCHK9pKtKdIkGIRvGY2?usp=sharing) | NA | NA |
+| | CS202 (Sys-Soft) | NA | NA | NA | NA | NA |
+| | IT202 (Web-Tech) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UHooAKAlfxd3RQ9HS9b4xg_JwzkeMJsj?usp=sharing) | NA | NA |
+| | CS204/264 (DBMS) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UMzCUM6p2OGrALGOgA-X7u6n2JD7pUDg?usp=sharing) | NA | NA |
+| | CS206/266 (OS) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UPT-9Xqw9nP2y4nnYfzdV3Z_cu_rJu87?usp=sharing) | NA | NA |
+| | CS208/268 (COA) | NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UPZtmj34vprzWiTCQLKj9hxjwl-rPk36?usp=sharing) | NA | NA |
+| | MA202 (Num-Techniques) | NA | NA | NA | NA | NA |
+| | HS202 (Eco)| NA | NA | [:white_check_mark:](https://drive.google.com/drive/folders/1UL_jep5leyJpwpCHK9pKtKdIkGIRvGY2?usp=sharing) | NA | NA |
 | Autumn-3 (Sem-V) | | | | |
-| | CS301/361 | NA | NA | NA | NA | NA |
-| | CS303/363 | NA | NA | NA | NA | NA |
-| | CS305 | NA | NA | NA | NA | NA |
-| | IT301/361 | NA | NA | NA | NA | NA |
-| | CS/IT 331 | NA | NA | NA | NA | NA |
-| | CS/IT 341 | NA | NA | NA | NA | NA |
-| | CS/IT 333 | NA | NA | NA | NA | NA |
+| | CS301/361 (CN) | NA | NA | NA | NA | NA |
+| | CS303/363 (SWE) | NA | NA | NA | NA | NA |
+| | CS305 (Automata) | NA | NA | NA | NA | NA |
+| | IT301/361 (Info-Sec) | NA | NA | NA | NA | NA |
+| | CS/IT 331 (IR) | NA | NA | NA | NA | NA |
+| | CS/IT 429 (Embedded) | NA | NA | NA | NA | NA |
+| | CS/IT 341 (Geoinformatics) | NA | NA | NA | NA | NA |
+| | CS/IT 333 (IVP) | NA | NA | NA | NA | NA |
 | Winter-3 (Sem-VI) | | | | |
-| | CS302/362 | NA | NA | NA | NA | NA |
-| | CS304/364 | NA | NA | NA | NA | NA |
-| | IT304 | NA | NA | NA | NA | NA |
-| | IT302/362 | NA | NA | NA | NA | NA |
-| | CS/IT 308 | NA | NA | NA | NA | NA |
-| | CS/IT 314 | NA | NA | NA | NA | NA |
-| | CS/IT 312 | NA | NA | NA | NA | NA |
-| | CS/IT 324 | NA | NA | NA | NA | NA |
-| | CS/IT 339 | NA | NA | NA | NA | NA |
-| | SC 308 | NA | NA | NA | NA | NA |
+| | CS302/362 (AI) | NA | NA | NA | NA | NA |
+| | CS304/364 (Crypto) | NA | NA | NA | NA | NA |
+| | IT304 (MIS) | NA | NA | NA | NA | NA |
+| | IT302/362 (SWPM) | NA | NA | NA | NA | NA |
+| | CS/IT 308 (ML) | NA | NA | NA | NA | NA |
+| | CS/IT 314 (WSN) | NA | NA | NA | NA | NA |
+| | CS/IT 312 (DAV) | NA | NA | NA | NA | NA |
+| | CS/IT 324 (Edge-Comp) | NA | NA | NA | NA | NA |
+| | CS/IT 339 (IoT) | NA | NA | NA | NA | NA |
+| | SC 308 (Quantum) | NA | NA | NA | NA | NA |
 
 **Click on the Green Ticks to access the materials.**
 
