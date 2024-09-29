@@ -46,6 +46,17 @@ All study materials of 2021 batch have been compiled here.
 | | CS/IT 331 | NA | NA | NA | NA | NA |
 | | CS/IT 341 | NA | NA | NA | NA | NA |
 | | CS/IT 333 | NA | NA | NA | NA | NA |
+| Winter-3 (Sem-VI) | | | | |
+| | CS302/362 | NA | NA | NA | NA | NA |
+| | CS304/364 | NA | NA | NA | NA | NA |
+| | IT304 | NA | NA | NA | NA | NA |
+| | IT302/362 | NA | NA | NA | NA | NA |
+| | CS/IT 308 | NA | NA | NA | NA | NA |
+| | CS/IT 314 | NA | NA | NA | NA | NA |
+| | CS/IT 312 | NA | NA | NA | NA | NA |
+| | CS/IT 324 | NA | NA | NA | NA | NA |
+| | CS/IT 339 | NA | NA | NA | NA | NA |
+| | SC 308 | NA | NA | NA | NA | NA |
 
 **Click on the Green Ticks to access the materials.**
 
